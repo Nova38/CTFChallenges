@@ -3,6 +3,8 @@ A mix of challenges
 
 ## Beginner
 
+https://www.holidayhackchallenge.com/2018/index.html
+
 ## Advanced 
 
 ### Hack the box
