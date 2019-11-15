@@ -1,0 +1,2 @@
+The flag is in the form of ctf{...}
+See if you can figure out how to find the flag here
