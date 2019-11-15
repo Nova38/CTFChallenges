@@ -6,8 +6,15 @@ A mix of challenges
 1. Set up an apache web server [5 pts]
 2. Set up a WordPress website on top of the apache web server [15 pts]
 
+
 ###  SANS Holiday Hack Challenge
 https://www.holidayhackchallenge.com/2018/index.html
+
+3. Questions 1 - 2 [5 pts]
+4. Questions 3 - 4 [5 pts]
+5. Questions 5 - 8 [10 pts]
+6. Questions 9 - 11 [20 pts]
+7. Questions 12 - 14 [30 pts]
 
 -----
 ## Advanced 
