@@ -5,7 +5,7 @@ A mix of challenges
 
 1. Set up an apache web server [5 pts]
 2. Set up a WordPress website on top of the apache web server [15 pts]
-3. https://github.com/knavesec/anomaly_lab/tree/master/ncdc-2018-anomalies-master/crypto-maze [10 pts]
+3. https://github.com/knavesec/anomaly_lab/tree/master/ncdc-2018-anomalies-master/crypto-maze/maze.png [10 pts]
 
 
 ###  SANS Holiday Hack Challenge
